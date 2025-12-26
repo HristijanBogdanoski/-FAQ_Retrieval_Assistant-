@@ -1,0 +1,21 @@
+﻿question,answer,category,language
+How can I reset my password?,Go to settings → account → reset password. You will receive an email with instructions.,Account,en
+What payment methods do you support?,"We support credit cards (Visa/Mastercard/Amex), PayPal, and bank transfers for enterprise customers.",Billing,en
+Why can't I log into my account?,"Make sure your email is verified and that you are using the correct login credentials. If issues persist, try resetting your password.",Account,en
+How do I contact customer support?,"You can contact us via live chat (9 AM - 6 PM EST), email at support@company.com, or call +1-800-123-4567.",Support,en
+Can I change my subscription plan?,"Yes, you can upgrade or downgrade anytime from your billing settings. Changes take effect immediately and you'll be prorated.",Billing,en
+Do you support Macedonian language?,"Yes, our platform supports multiple languages including Macedonian, English, and 50+ others.",Product,en
+How do refunds work?,Refunds are processed within 5-7 business days depending on your bank. We offer a 30-day money-back guarantee for annual plans.,Billing,en
+Is my data secure?,"Yes, we use industry-standard 256-bit SSL encryption and comply with GDPR and SOC 2 Type II standards.",Security,en
+Do you have a mobile app?,Yes! Our mobile app is available for iOS and Android. Download it from the App Store or Google Play.,Product,en
+What happens if I exceed my usage limits?,You'll receive a notification and can either upgrade your plan or purchase additional credits as needed.,Billing,en
+Can multiple team members use one account?,"Yes, our Team and Enterprise plans support multiple users with individual logins and customizable permissions.",Account,en
+How long does implementation take?,Most customers are up and running within 24 hours. We provide onboarding support and implementation assistance for enterprise clients.,Onboarding,en
+Do you offer API access?,"Yes, API access is available on Professional and Enterprise plans. Full documentation is available in your dashboard.",Product,en
+What are your business hours?,"Customer support is available Monday-Friday, 9 AM - 6 PM EST. Email support is monitored 24/7 for urgent issues.",Support,en
+Can I export my data?,"Yes, you can export all your data in CSV or JSON format from Settings → Data Export. Exports complete within 10 minutes.",Account,en
+Како да ја ресетирам мојата лозинка?,Одете на поставки → сметка → ресетирај лозинка. Ќе добиете е-пошта со инструкции.,Account,mk
+Кои методи на плаќање ги поддржувате?,"Поддржуваме кредитни картички (Visa/Mastercard/Amex), PayPal и банкарски трансфери за корпоративни клиенти.",Billing,mk
+Зошто не можам да се најавам на мојата сметка?,"Проверете дали вашата е-пошта е верификувана и дали користите точни податоци за најава. Ако проблемот продолжи, ресетирајте ја лозинката.",Account,mk
+Како да контактирам со корисничка поддршка?,"Можете да нè контактирате преку жив разговор (9–18ч EST), е-пошта на support@company.com или телефон +1-800-123-4567.",Support,mk
+Можам ли да го променам мојот план за претплата?,"Да, можете да надградите или намалите во секое време од поставките за наплата. Промените се применуваат веднаш.",Billing,mk
