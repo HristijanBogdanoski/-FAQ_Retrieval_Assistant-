@@ -1,4 +1,4 @@
-# FAQ Retrieval Assistant
+# FAQ Retrival Assistant
 ## Overview
 This project implements a **simple FAQ Retrival Assistant** that takes a user query and retrieves the most relevant answers from a predefined FAQ knowledge base.
 
@@ -111,4 +111,4 @@ Visualizations for:
 1. Install dependencies
 pip install sentence-transformers pandas numpy scikit-learn matplotlib seaborn
 
-2. After you have run the dependencies run the notebook cells in your preffered IDE. ** Recomended Jupyter Notebook or Colab **
+2. After you have run the dependencies run the notebook cells in your preffered IDE. ** Recommended Jupyter Notebook or Colab **
