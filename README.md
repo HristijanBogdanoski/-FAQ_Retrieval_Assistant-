@@ -1,6 +1,6 @@
-# FAQ Retrival Assistant
+# FAQ Retrieval Assistant
 ## Overview
-This project implements a **simple FAQ Retrival Assistant** that takes a user query and retrieves the most relevant answers from a predefined FAQ knowledge base.
+This project implements a **simple FAQ Retrieval Assistant** that takes a user query and retrieves the most relevant answers from a predefined FAQ knowledge base.
 
 The system:
 - Converts FAQ questions into embeddings
