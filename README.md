@@ -23,7 +23,7 @@ Both **English and Macedonian FAQs are included**, allowing multilingual retriev
 
 ## Approach
 
-### 1️ Embeddings
+### 1 Embeddings
 - Model used: `paraphrase-multilingual-MiniLM-L12-v2` from SentenceTransformers
 - Reason: It supports multilingual inputs and is lightweight but accurate.
 
